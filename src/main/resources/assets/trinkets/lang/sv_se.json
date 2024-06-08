@@ -1,0 +1,20 @@
+{
+	"trinkets.tooltip.slots.any": "Equippable in §9any§r trinket slot",
+	"trinkets.tooltip.slots.list": "Equippable in the trinket slots:",
+	"trinkets.tooltip.slots.single": "Equippable in the %d trinket slot",
+	"trinkets.tooltip.attributes.all": "When equipped:",
+	"trinkets.tooltip.attributes.single": "When equipped in the %d trinket slot:",
+	"trinkets.tooltip.attributes.slots": "%d Slots",
+	"trinkets.slot.head.face": "Ansikte",
+	"trinkets.slot.head.hat": "Hatt",
+	"trinkets.slot.chest.necklace": "Halsband",
+	"trinkets.slot.chest.back": "Rygg",
+	"trinkets.slot.chest.cape": "Cape",
+	"trinkets.slot.legs.belt": "Bälte",
+	"trinkets.slot.feet.aglet": "Aglet",
+	"trinkets.slot.feet.shoes": "Skor",
+	"trinkets.slot.hand.glove": "Handske",
+	"trinkets.slot.offhand.glove": "Handske",
+	"trinkets.slot.hand.ring": "Ring",
+	"trinkets.slot.offhand.ring": "Ring"
+}
